@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shubham
 
 ## 🚀 About Me
-I'm a student entering 9th class with a strong passion for technology, coding, and ethical hacking. Over the past few years, I've completed multiple online courses and earned certificates in programming, app development, and game development. I also won an interschool STEAM competition, which fueled my drive to keep building and learning.
+I'm a student with a strong passion for technology, coding, and ethical hacking. Over the past few years, I've completed multiple online courses and earned certificates in programming, app development, and game development. I also won an interschool STEAM competition, which fueled my drive to keep building and learning.
 
 ## 💻 What I'm Working On
 - Developing apps and games to sharpen my programming skills  
