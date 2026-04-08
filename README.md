@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham
 
-<!--
-**programmershubham404/programmershubham404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a student entering 9th class with a strong passion for technology, coding, and ethical hacking. Over the past few years, I've completed multiple online courses and earned certificates in programming, app development, and game development. I also won an interschool STEAM competition, which fueled my drive to keep building and learning.
 
-Here are some ideas to get you started:
+## 💻 What I'm Working On
+- Developing apps and games to sharpen my programming skills  
+- Exploring AI, workflow optimization, and device troubleshooting  
+- Building projects that combine creativity with problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- **Languages:** Python, C++, Java, HTML, CSS  
+- **Focus Areas:** App development, game development, ethical hacking basics  
+- **Other Skills:** YouTube content optimization, device troubleshooting, workflow refinement  
+
+## 📫 How to Reach Me
+- Email: programmer-shubham@outlook.com         
+- GitHub: https://github.com/programmershubham404
+
+---
+
+⭐ I love connecting with people who share interests in coding, AI, and tech innovation. Feel free to check out my projects or drop me a message!
