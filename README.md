@@ -16,7 +16,14 @@ I'm a student with a strong passion for technology, coding, and ethical hacking.
 ## 📫 How to Reach Me
 - Email: programmer-shubham@outlook.com         
 - GitHub: https://github.com/programmershubham404
-
 ---
+![Interschool Competition ](https://github.com/user-attachments/assets/c3d5ed66-7068-407d-8147-bdf220a48c59)
+![Interschool Competition](https://github.com/user-attachments/assets/4ffa751e-0753-4d4d-a727-6f8ae9b580d1)
+![Artificial Intelligence Coding ](https://github.com/user-attachments/assets/b8c31648-dac7-46fe-9ffd-2911506a33fc)
+![App developer](https://github.com/user-attachments/assets/4311b015-f06a-4ac1-833d-86b573675a5b)
+![Game developer](https://github.com/user-attachments/assets/05213885-9e0b-49c0-b4a6-595aca6b9ed1)
+![CERT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/13fd0eac-ee13-4a3a-ad6e-083018873329)
+![MERIT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/95102ef3-9879-416c-a468-37d8ae2a1fe1)
+[National AI Olampiad 2025 Report.pdf](https://github.com/user-attachments/files/26574705/final-NAIO-S1-1760087163081-2504324.pdf)
 
 ⭐ I love connecting with people who share interests in coding, AI, and tech innovation. Feel free to check out my projects or drop me a message!
