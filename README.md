@@ -22,6 +22,10 @@ I'm a student with a strong passion for technology, coding, and ethical hacking.
 ![CERT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/13fd0eac-ee13-4a3a-ad6e-083018873329)
 ![MERIT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/95102ef3-9879-416c-a468-37d8ae2a1fe1)
 [National AI Olampiad 2025 Report.pdf](https://github.com/user-attachments/files/26574705/final-NAIO-S1-1760087163081-2504324.pdf)
+<img width="860" height="679" alt="img_cert_python" src="https://github.com/user-attachments/assets/e22f3714-3911-4a75-a9ef-f231a41389e8" />
+<img width="995" height="786" alt="img_cert_html" src="https://github.com/user-attachments/assets/65e28b6f-8ee7-49c7-85c0-9d881685ca6f" />
+<img width="864" height="596" alt="image" src="https://github.com/user-attachments/assets/7ac826e1-20b5-43d8-82c5-06541cf6e30b" />
+
 ![Artificial Intelligence Coding ](https://github.com/user-attachments/assets/b8c31648-dac7-46fe-9ffd-2911506a33fc)
 ![App developer](https://github.com/user-attachments/assets/4311b015-f06a-4ac1-833d-86b573675a5b)
 ![Game developer](https://github.com/user-attachments/assets/05213885-9e0b-49c0-b4a6-595aca6b9ed1)
