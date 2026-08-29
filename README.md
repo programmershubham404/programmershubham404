@@ -9,7 +9,7 @@ I'm a student with a strong passion for technology, coding, and ethical hacking.
 - Building projects that combine creativity with problem-solving  
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, C++, Java, HTML, CSS  
+- **Languages:** Python, C++, Java, HTML, CSS, Kotlin
 - **Focus Areas:** App development, game development, ethical hacking basics  
 - **Other Skills:** YouTube content optimization, device troubleshooting, workflow refinement  
 
