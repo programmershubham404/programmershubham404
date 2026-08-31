@@ -21,7 +21,8 @@ I'm a student with a strong passion for technology, coding, and ethical hacking.
 ![Interschool Competition](https://github.com/user-attachments/assets/4ffa751e-0753-4d4d-a727-6f8ae9b580d1)
 ![CERT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/13fd0eac-ee13-4a3a-ad6e-083018873329)
 ![MERIT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/95102ef3-9879-416c-a468-37d8ae2a1fe1)
-[National AI Olampiad 2025 Report.pdf](https://github.com/user-attachments/files/26574705/final-NAIO-S1-1760087163081-2504324.pdf)
+👉 [National AI Olampiad 2025 Report.pdf](https://github.com/user-attachments/files/26574705/final-NAIO-S1-1760087163081-2504324.pdf)
+
 <img width="1600" height="1190" alt="Udemy Python Certificate" src="https://github.com/user-attachments/assets/3a50c0d6-684a-4798-9e82-fb4e334f07f4" />
 <img width="860" height="679" alt="img_cert_python" src="https://github.com/user-attachments/assets/e22f3714-3911-4a75-a9ef-f231a41389e8" />
 <img width="995" height="786" alt="img_cert_html" src="https://github.com/user-attachments/assets/65e28b6f-8ee7-49c7-85c0-9d881685ca6f" />
