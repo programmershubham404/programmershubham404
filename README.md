@@ -17,6 +17,7 @@ I'm a student with a strong passion for technology, coding, and ethical hacking.
 - Email: programmer-shubham@outlook.com         
 - GitHub: https://github.com/programmershubham404
 ---
+<img width="1600" height="1190" alt="Udemy Python Certificate" src="https://github.com/user-attachments/assets/3a50c0d6-684a-4798-9e82-fb4e334f07f4" />
 ![Interschool Competition ](https://github.com/user-attachments/assets/c3d5ed66-7068-407d-8147-bdf220a48c59)
 ![Interschool Competition](https://github.com/user-attachments/assets/4ffa751e-0753-4d4d-a727-6f8ae9b580d1)
 ![CERT-NAIO-S1-1760087163081-2504324_page-0001](https://github.com/user-attachments/assets/13fd0eac-ee13-4a3a-ad6e-083018873329)
